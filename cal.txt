@@ -6,3 +6,4 @@ def mul(a,b);
 
 def div(a,b):
       int k;
+      return a//b ## 바뀌어
